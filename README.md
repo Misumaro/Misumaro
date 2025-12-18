@@ -1,21 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header"/>
 
 <div align="center">
   <h2>Marlon Ferreira</h2>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=28&center=true&vCenter=true&width=1000&lines=FRONT-END+DEVELOPER;HTML5+%7C+CSS3+%7C+JavaScript;Apaixonado+por+interfaces+bem+feitas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=28&center=true&vCenter=true&width=1000&lines=FRONT-END+DEVELOPER;HTML5+%7C+CSS3+%7C+JavaScript;Criando+interfaces+modernas+e+responsivas)](https://git.io/typing-svg)
 
 ---
 
 <div align="center">
   <img width="49%" height="195px" 
-       src="https://github-readme-stats.vercel.app/api?username=Misumaro&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" 
-       alt="GitHub stats" />  
+       src="https://github-readme-stats.vercel.app/api?username=Misumaro&show_icons=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" />  
 
   <img width="41%" height="195px" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misumaro&layout=compact&hide_border=true&title_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" 
-       alt="Top Languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misumaro&layout=compact&hide_border=true&title_color=1f6feb&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -29,7 +27,6 @@
 <div align="center">
   <img 
     src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" 
-    alt="Programmer GIF" 
     width="360"
   />
 </div>
@@ -42,11 +39,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=F7DF1E)
 
-### 🎨 Estilo & Boas Práticas
+### 🎨 Foco em Front-end
 - Layouts responsivos
-- Interfaces limpas e funcionais
-- Código organizado e reutilizável
-- Foco em experiência do usuário (UX/UI)
+- Interfaces modernas
+- Código limpo e organizado
+- Boa experiência do usuário (UX)
 
 ---
 
@@ -61,14 +58,14 @@
 
 ## 📌 Sobre mim
 
-💻 Desenvolvedor **Front-end**, focado em transformar ideias em interfaces funcionais e bem estruturadas.  
-🚀 Sempre buscando evoluir, aprender novas tecnologias e escrever código cada vez melhor.  
-🎯 Acredito que um bom design aliado a um código limpo faz toda a diferença.
+💻 Desenvolvedor **Front-end**, com foco em **HTML5, CSS3 e JavaScript**.  
+🚀 Gosto de criar interfaces funcionais, bonitas e bem estruturadas.  
+📚 Sempre estudando e evoluindo no desenvolvimento web.
 
 ---
 
 <h3 align="center">
-  🚀 Construindo interfaces, um commit de cada vez!
+  🚀 Transformando ideias em interfaces reais
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
