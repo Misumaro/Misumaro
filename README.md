@@ -7,6 +7,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=28&center=true&vCenter=true&width=1000&lines=Criando+interfaces+que+fazem+sentido;HTML5+%7C+CSS3+%7C+JavaScript;Design%2C+código+e+experiência+andam+juntos)](https://git.io/typing-svg)
 
+<div align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="SEU_PORTFOLIO_AQUI" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-%23121011?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+</div>
+
 ---
 
 <div align="center">
@@ -40,30 +46,46 @@
 
 ---
 
-## ✨ O que me move
+## ✨ O que me move e quem eu sou
 
-Sou desenvolvedor Front-end apaixonado por transformar ideias em
-interfaces que **funcionam**, **encantam** e **fazem sentido para o usuário**.
+Sou **desenvolvedor Front-end**, aprendendo e evoluindo de forma **100% autônoma**. 
+Sou apaixonado por transformar ideias em interfaces que **funcionam**, **encantam** e **fazem sentido para o usuário**.
 
-Gosto de pensar no layout antes da primeira linha de código,
-organizar cada detalhe e evoluir o projeto até ficar redondo.
+Tenho muito orgulho de ser **autista** 🧩, o que me dá uma perspectiva única: 
+um hiperfoco em detalhes, uma forte capacidade de identificar padrões e a vontade de construir coisas lógicas e bem estruturadas.
 
-Código limpo, experiência fluida e design bem pensado não são extras —
-são o básico.
+Gosto de pensar no layout antes da primeira linha de código, organizar cada detalhe e evoluir o projeto até ficar redondo. 
+Para mim, código limpo, experiência fluida e design acessível não são extras — são a base de qualquer projeto.
 
 ---
 
 ## 🛠️ Ferramentas que uso no dia a dia
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
 ---
 
-## 🚀 Em constante evolução
+## 🚀 O que estou fazendo agora
 
-📚 Sempre estudando Front-end  
+- 🌱 Atualmente focando em aprofundar meus conhecimentos práticos no **Front-end** de forma **autônoma**.
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui no meu perfil.
+- 💬 Pergunte-me sobre: **HTML, CSS, UI/UX e desenvolvimento focado em detalhes.**
+- ⚡ Fato curioso: Consigo passar horas focado em refinar um único componente até a experiência ficar perfeita!
+
+---
+
+## 💻 Projetos em Destaque
+
+*(Substitua os links e descrições pelos seus projetos reais)*
+
+| Projeto | Descrição | Tecnologias | Links |
+|---------|-----------|-------------|-------|
+| **[Nome do Projeto 1]** | Uma breve descrição do que o projeto faz e qual problema ele resolve. | `HTML`, `CSS`, `JS` | [Repositório](#) \| [Ver ao vivo](#) |
+| **[Nome do Projeto 2]** | Descrição do segundo melhor projeto focado na experiência do usuário. | `HTML`, `CSS` | [Repositório](#) \| [Ver ao vivo](#) |
