@@ -17,24 +17,15 @@
 
 <div align="center">
   <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=Misumaro&show_icons=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117"/>
+       src="https://github-readme-stats.vercel.app/api?username=Misumaro&show_icons=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&bg_color=00000000"/>
 
   <img width="41%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misumaro&layout=compact&hide_border=true&title_color=1f6feb&text_color=c9d1d9&bg_color=0d1117"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misumaro&layout=compact&hide_border=true&title_color=1f6feb&text_color=c9d1d9&bg_color=00000000"/>
 </div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Misumaro&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
-
----
-
-<div align="center">
-  <img
-    src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"
-    width="360"
-  />
-</div>
 
 ---
 
@@ -62,12 +53,9 @@ Para mim, código limpo, experiência fluida e design acessível não são extra
 ## 🛠️ Ferramentas que uso no dia a dia
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github&theme=dark" alt="Skill Icons" />
+  </a>
 </div>
 
 ---
@@ -87,3 +75,15 @@ Para mim, código limpo, experiência fluida e design acessível não são extra
 |---------|-----------|-------------|-------|
 | **Site Adv Sage** | Site profissional desenvolvido sob medida para um escritório de advocacia. | `HTML`, `CSS`, `JS` | [Ver ao vivo](https://www.advsage.com.br/) |
 | **Organograma Corporativo** | Aplicação desenvolvida para gerenciar e visualizar a estrutura hierárquica corporativa. | `HTML`, `CSS`, `JS` | [Repositório](https://github.com/Misumaro/ORGANOGRAMA-CORPORATIVO) |
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Misumaro/Misumaro/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Misumaro/Misumaro/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Misumaro/Misumaro/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
