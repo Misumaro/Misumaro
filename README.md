@@ -5,7 +5,7 @@
   <p>🎨 Desenvolvedor Front-end</p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=28&center=true&vCenter=true&width=1000&lines=Criando+interfaces+que+fazem+sentido;HTML5+%7C+CSS3+%7C+JavaScript;Design%2C+código+e+experiência+andam+juntos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=1f6feb&size=28&center=true&vCenter=true&width=1000&lines=Criando+interfaces+que+fazem+sentido;HTML5+%7C+CSS3+%7C+JavaScript;Design%2C+código+e+experiência+andam+juntos)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marlon-f/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -17,10 +17,10 @@
 
 <div align="center">
   <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=Misumaro&show_icons=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&bg_color=00000000"/>
+       src="https://github-readme-stats.vercel.app/api?username=Misumaro&show_icons=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&theme=transparent"/>
 
   <img width="41%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misumaro&layout=compact&hide_border=true&title_color=1f6feb&text_color=c9d1d9&bg_color=00000000"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misumaro&layout=compact&hide_border=true&title_color=1f6feb&text_color=c9d1d9&theme=transparent"/>
 </div>
 
 <p align="center">
