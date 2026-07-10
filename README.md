@@ -8,9 +8,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=28&center=true&vCenter=true&width=1000&lines=Criando+interfaces+que+fazem+sentido;HTML5+%7C+CSS3+%7C+JavaScript;Design%2C+código+e+experiência+andam+juntos)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="SEU_PORTFOLIO_AQUI" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-%23121011?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/marlon-f/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/5521976897970" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.instagram.com/misumaro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 ---
@@ -83,9 +83,7 @@ Para mim, código limpo, experiência fluida e design acessível não são extra
 
 ## 💻 Projetos em Destaque
 
-*(Substitua os links e descrições pelos seus projetos reais)*
-
 | Projeto | Descrição | Tecnologias | Links |
 |---------|-----------|-------------|-------|
-| **[Nome do Projeto 1]** | Uma breve descrição do que o projeto faz e qual problema ele resolve. | `HTML`, `CSS`, `JS` | [Repositório](#) \| [Ver ao vivo](#) |
-| **[Nome do Projeto 2]** | Descrição do segundo melhor projeto focado na experiência do usuário. | `HTML`, `CSS` | [Repositório](#) \| [Ver ao vivo](#) |
+| **Site Adv Sage** | Site profissional desenvolvido sob medida para um escritório de advocacia. | `HTML`, `CSS`, `JS` | [Ver ao vivo](https://www.advsage.com.br/) |
+| **Organograma Corporativo** | Aplicação desenvolvida para gerenciar e visualizar a estrutura hierárquica corporativa. | `HTML`, `CSS`, `JS` | [Repositório](https://github.com/Misumaro/ORGANOGRAMA-CORPORATIVO) |
